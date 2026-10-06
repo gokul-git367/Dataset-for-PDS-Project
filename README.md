@@ -1,4 +1,4 @@
-# Dataset-for-PDS-Project
+# Dataset-for-PDS-Project-from-kaggle
 
 This repository contains stock price datasets for:
 
